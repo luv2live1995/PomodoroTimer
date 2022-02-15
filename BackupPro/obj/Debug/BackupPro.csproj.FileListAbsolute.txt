@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\bin\Debug\BackupPro.exe.config
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\bin\Debug\BackupPro.exe
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\bin\Debug\BackupPro.pdb
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Form1.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Properties.Resources.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.exe
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.pdb
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Form2.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Form3.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Form4.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.Form5.resources
+C:\Users\user\source\repos\BackupPro_ns\BackupPro\obj\Debug\BackupPro.PomodoroTimer.resources
